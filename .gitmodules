@@ -1,3 +1,4 @@
 [submodule "xed"]
 	path = xed
 	url = https://github.com/intelxed/xed.git
+  branch = main
